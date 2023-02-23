@@ -10,6 +10,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class Appium01 {
+
     @Test
     public void test() throws MalformedURLException, InterruptedException {
         DesiredCapabilities capabilities=new DesiredCapabilities();
