@@ -23,5 +23,6 @@ public class Appium01 {
         capabilities.setCapability("appPackage","com.davemac327.gesture.tool");// KOnsola adbs shell enter yapıp "dumpsys window | grep -E "mCurrentFocus" enter"
         capabilities.setCapability("appActivity","com.davemac327.gesture.tool.GestureBuilderActivity");
         AndroidDriver<MobileElement>driver=new AndroidDriver<MobileElement>(new URL("http://127.0.0.1:4723/wd/hub"),capabilities);
+
     }
 }
