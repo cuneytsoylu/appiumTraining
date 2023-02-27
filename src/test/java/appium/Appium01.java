@@ -14,6 +14,7 @@ public class Appium01 {
 
     @Test
     public void test() throws MalformedURLException, InterruptedException {
+
         DesiredCapabilities capabilities=new DesiredCapabilities();
         capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME,"Android");
         capabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION,"10.0");
