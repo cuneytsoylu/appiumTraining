@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dee168fb-a162-4b3d-802a-580f2db4b1a0" name="Changes" comment="28022023" />
+    <list default="true" id="dee168fb-a162-4b3d-802a-580f2db4b1a0" name="Changes" comment="Appium" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677586688227</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Appium">
+      <created>1678109995332</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678109995332</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -142,6 +149,7 @@
     <MESSAGE value="26022023" />
     <MESSAGE value="27022023" />
     <MESSAGE value="28022023" />
-    <option name="LAST_COMMIT_MESSAGE" value="28022023" />
+    <MESSAGE value="Appium" />
+    <option name="LAST_COMMIT_MESSAGE" value="Appium" />
   </component>
 </project>
